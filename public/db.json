@@ -1,0 +1,11 @@
+{
+  "staff": [
+    { "id": 0, "name": "Caroline", "rating": 4.6 },
+    { "id": 1, "name": "Saja", "rating": 4.3 },
+    { "id": 2, "name": "Natasha/Ziyanda", "rating": 4.6 },
+    { "id": 2, "name": "Natalie", "rating": 4.5 },
+    { "id": 4, "name": "Emily", "rating": 4.4 },
+    { "id": 5, "name": "Prudence", "rating": 4.7 },
+    { "id": 6, "name": "Chipo", "rating": 4.9 }
+  ]
+}

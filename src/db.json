@@ -1,0 +1,410 @@
+{
+  "staff": [
+    { "id": 0, "name": "Caroline", "rating": 4.6 },
+    { "id": 1, "name": "Saja", "rating": 4.3 },
+    { "id": 2, "name": "Natasha/Ziyanda", "rating": 4.6 },
+    { "id": 3, "name": "Natalie", "rating": 4.5 },
+    { "id": 4, "name": "Emily", "rating": 4.4 },
+    { "id": 5, "name": "Prudence", "rating": 4.7 },
+    { "id": 6, "name": "Chipo", "rating": 4.9 }
+  ],
+  "services": [
+    {
+      "title": "Manicure",
+      "title2": "مانيكير (عناية اليدين)",
+      "duration": "45min - 1h 15min",
+      "Starterprice": 138,
+      "options": [
+        {
+          "id": 1,
+          "title": "Manicure مانيكير (عناية اليدين)",
+          "price": 138,
+          "duration": "45min"
+        },
+        {
+          "id": 2,
+          "title": "Shellac Manicure مانيكير مع لون شيلاك",
+          "price": 218.5,
+          "duration": "1h"
+        },
+        {
+          "id": 3,
+          "title": "Manicure + Shellac Removal + Application مانيكير مع لون شيلاك مع ازالة",
+          "price": 253,
+          "duration": "1h 15min"
+        }
+      ],
+      "id": 0
+    },
+    {
+      "title": "Manicure",
+      "title2": "مانيكير (عناية اليدين)",
+      "duration": "45min - 1h 15min",
+      "Starterprice": 138,
+      "options": [
+        {
+          "id": 1,
+          "title": "Manicure مانيكير (عناية اليدين)",
+          "price": 138,
+          "duration": "45min"
+        },
+        {
+          "id": 2,
+          "title": "Shellac Manicure مانيكير مع لون شيلاك",
+          "price": 218.5,
+          "duration": "1h"
+        },
+        {
+          "id": 3,
+          "title": "Manicure + Shellac Removal + Application مانيكير مع لون شيلاك مع ازالة",
+          "price": 253,
+          "duration": "1h 15min"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "title": "Manicure",
+      "title2": "مانيكير (عناية اليدين)",
+      "duration": "45min - 1h 15min",
+      "Starterprice": 138,
+      "options": [
+        {
+          "id": 1,
+          "title": "Manicure مانيكير (عناية اليدين)",
+          "price": 138,
+          "duration": "45min"
+        },
+        {
+          "id": 2,
+          "title": "Shellac Manicure مانيكير مع لون شيلاك",
+          "price": 218.5,
+          "duration": "1h"
+        },
+        {
+          "id": 3,
+          "title": "Manicure + Shellac Removal + Application مانيكير مع لون شيلاك مع ازالة",
+          "price": 253,
+          "duration": "1h 15min"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "title": "Manicure",
+      "title2": "مانيكير (عناية اليدين)",
+      "duration": "45min - 1h 15min",
+      "Starterprice": 138,
+      "options": [
+        {
+          "id": 1,
+          "title": "Manicure مانيكير (عناية اليدين)",
+          "price": 138,
+          "duration": "45min"
+        },
+        {
+          "id": 2,
+          "title": "Shellac Manicure مانيكير مع لون شيلاك",
+          "price": 218.5,
+          "duration": "1h"
+        },
+        {
+          "id": 3,
+          "title": "Manicure + Shellac Removal + Application مانيكير مع لون شيلاك مع ازالة",
+          "price": 253,
+          "duration": "1h 15min"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "title": "Manicure",
+      "title2": "مانيكير (عناية اليدين)",
+      "duration": "45min - 1h 15min",
+      "Starterprice": 138,
+      "options": [
+        {
+          "id": 1,
+          "title": "Manicure مانيكير (عناية اليدين)",
+          "price": 138,
+          "duration": "45min"
+        },
+        {
+          "id": 2,
+          "title": "Shellac Manicure مانيكير مع لون شيلاك",
+          "price": 218.5,
+          "duration": "1h"
+        },
+        {
+          "id": 3,
+          "title": "Manicure + Shellac Removal + Application مانيكير مع لون شيلاك مع ازالة",
+          "price": 253,
+          "duration": "1h 15min"
+        }
+      ],
+      "id": 4
+    },
+    {
+      "title": "Manicure",
+      "title2": "مانيكير (عناية اليدين)",
+      "duration": "45min - 1h 15min",
+      "Starterprice": 138,
+      "options": [
+        {
+          "id": 1,
+          "title": "Manicure مانيكير (عناية اليدين)",
+          "price": 138,
+          "duration": "45min"
+        },
+        {
+          "id": 2,
+          "title": "Shellac Manicure مانيكير مع لون شيلاك",
+          "price": 218.5,
+          "duration": "1h"
+        },
+        {
+          "id": 3,
+          "title": "Manicure + Shellac Removal + Application مانيكير مع لون شيلاك مع ازالة",
+          "price": 253,
+          "duration": "1h 15min"
+        }
+      ],
+      "id": 5
+    },
+    {
+      "title": "Manicure",
+      "title2": "مانيكير (عناية اليدين)",
+      "duration": "45min - 1h 15min",
+      "Starterprice": 138,
+      "options": [
+        {
+          "id": 1,
+          "title": "Manicure مانيكير (عناية اليدين)",
+          "price": 138,
+          "duration": "45min"
+        },
+        {
+          "id": 2,
+          "title": "Shellac Manicure مانيكير مع لون شيلاك",
+          "price": 218.5,
+          "duration": "1h"
+        },
+        {
+          "id": 3,
+          "title": "Manicure + Shellac Removal + Application مانيكير مع لون شيلاك مع ازالة",
+          "price": 253,
+          "duration": "1h 15min"
+        }
+      ],
+      "id": 6
+    },
+    {
+      "title": "Manicure",
+      "title2": "مانيكير (عناية اليدين)",
+      "duration": "45min - 1h 15min",
+      "Starterprice": 138,
+      "options": [
+        {
+          "id": 1,
+          "title": "Manicure مانيكير (عناية اليدين)",
+          "price": 138,
+          "duration": "45min"
+        },
+        {
+          "id": 2,
+          "title": "Shellac Manicure مانيكير مع لون شيلاك",
+          "price": 218.5,
+          "duration": "1h"
+        },
+        {
+          "id": 3,
+          "title": "Manicure + Shellac Removal + Application مانيكير مع لون شيلاك مع ازالة",
+          "price": 253,
+          "duration": "1h 15min"
+        }
+      ],
+      "id": 7
+    },
+    {
+      "title": "Manicure",
+      "title2": "مانيكير (عناية اليدين)",
+      "duration": "45min - 1h 15min",
+      "Starterprice": 138,
+      "options": [
+        {
+          "id": 1,
+          "title": "Manicure مانيكير (عناية اليدين)",
+          "price": 138,
+          "duration": "45min"
+        },
+        {
+          "id": 2,
+          "title": "Shellac Manicure مانيكير مع لون شيلاك",
+          "price": 218.5,
+          "duration": "1h"
+        },
+        {
+          "id": 3,
+          "title": "Manicure + Shellac Removal + Application مانيكير مع لون شيلاك مع ازالة",
+          "price": 253,
+          "duration": "1h 15min"
+        }
+      ],
+      "id": 8
+    },
+    {
+      "title": "Manicure",
+      "title2": "مانيكير (عناية اليدين)",
+      "duration": "45min - 1h 15min",
+      "Starterprice": 138,
+      "options": [
+        {
+          "id": 1,
+          "title": "Manicure مانيكير (عناية اليدين)",
+          "price": 138,
+          "duration": "45min"
+        },
+        {
+          "id": 2,
+          "title": "Shellac Manicure مانيكير مع لون شيلاك",
+          "price": 218.5,
+          "duration": "1h"
+        },
+        {
+          "id": 3,
+          "title": "Manicure + Shellac Removal + Application مانيكير مع لون شيلاك مع ازالة",
+          "price": 253,
+          "duration": "1h 15min"
+        }
+      ],
+      "id": 9
+    }
+  ],
+  "appointment": {
+    "services": [
+      { "id": 0, "opt": 2 },
+      { "id": 0, "opt": 3 },
+      { "id": 1, "opt": 2 }
+    ],
+    "employe": { "id": 0, "name": "Caroline", "rating": 4.6 },
+    "store": {
+      "name": "Mellow Nails Artistry",
+      "location": "7774 Prince Abdulaziz Ibn Musaid Ibn Jalawi - Al Olaya Dist. Unit No. 14 Riyadh 12221 - 3888, Riyadh",
+      "images": ["images/SliderImage1.webp"],
+      "link": "/"
+    },
+    "time": {
+      "hourAndMinutes": "11:30",
+      "day": 30,
+      "month": "May",
+      "year": 2022,
+      "durationInMinutes": 15
+    },
+    "notes": "notesss",
+    "bookWithStaff": false,
+    "isConfirmed": true,
+    "bookingRef": "FAFFEC48"
+  },
+  "appointments": [
+    {
+      "id": 0,
+      "services": [{ "id": 1, "opt": 2 }],
+      "employe": { "id": 0, "name": "Caroline", "rating": 4.6 },
+      "store": {
+        "name": "Mellow Nails Artistry",
+        "location": "7774 Prince Abdulaziz Ibn Musaid Ibn Jalawi - Al Olaya Dist. Unit No. 14 Riyadh 12221 - 3888, Riyadh",
+        "images": ["images/SliderImage1.webp"],
+        "link": "/"
+      },
+      "time": {
+        "hourAndMinutes": "11:30",
+        "day": 10,
+        "month": "June",
+        "year": 2022,
+        "durationInMinutes": 15
+      },
+      "notes": "notesss",
+      "bookWithStaff": false,
+      "isConfirmed": true,
+      "bookingRef": "FAFFEC48"
+    },
+    {
+      "id": 1,
+      "services": [
+        { "id": 0, "opt": 2 },
+        { "id": 0, "opt": 3 },
+        { "id": 1, "opt": 2 }
+      ],
+      "employe": { "id": 0, "name": "Caroline", "rating": 4.6 },
+      "store": {
+        "name": "Mellow Nails Artistry",
+        "location": "7774 Prince Abdulaziz Ibn Musaid Ibn Jalawi - Al Olaya Dist. Unit No. 14 Riyadh 12221 - 3888, Riyadh",
+        "images": ["images/SliderImage1.webp"],
+        "link": "/"
+      },
+      "time": {
+        "hourAndMinutes": "11:30",
+        "day": 31,
+        "month": "May",
+        "year": 2022,
+        "durationInMinutes": 15
+      },
+      "notes": "notesss",
+      "bookWithStaff": false,
+      "isConfirmed": false,
+      "bookingRef": "FAFFEC48"
+    },
+    {
+      "id": 2,
+      "services": [
+        { "id": 0, "opt": 2 },
+        { "id": 0, "opt": 3 },
+        { "id": 1, "opt": 2 }
+      ],
+      "employe": { "id": 0, "name": "Caroline", "rating": 4.6 },
+      "store": {
+        "name": "Mellow Nails Artistry",
+        "location": "7774 Prince Abdulaziz Ibn Musaid Ibn Jalawi - Al Olaya Dist. Unit No. 14 Riyadh 12221 - 3888, Riyadh",
+        "images": ["images/SliderImage1.webp"],
+        "link": "/"
+      },
+      "time": {
+        "hourAndMinutes": "11:30",
+        "day": 29,
+        "month": "May",
+        "year": 2022,
+        "durationInMinutes": 15
+      },
+      "notes": "notesss",
+      "bookWithStaff": false,
+      "isConfirmed": false,
+      "bookingRef": "FAFFEC48"
+    },
+    {
+      "id": 3,
+      "services": [
+        { "id": 0, "opt": 2 },
+        { "id": 0, "opt": 3 },
+        { "id": 1, "opt": 2 }
+      ],
+      "employe": { "id": 0, "name": "Caroline", "rating": 4.6 },
+      "store": {
+        "name": "Mellow Nails Artistry",
+        "location": "7774 Prince Abdulaziz Ibn Musaid Ibn Jalawi - Al Olaya Dist. Unit No. 14 Riyadh 12221 - 3888, Riyadh",
+        "images": ["images/SliderImage1.webp"],
+        "link": "/"
+      },
+      "time": {
+        "hourAndMinutes": "11:30",
+        "day": 29,
+        "month": "May",
+        "year": 2022,
+        "durationInMinutes": 15
+      },
+      "notes": "notesss",
+      "bookWithStaff": false,
+      "isConfirmed": true,
+      "bookingRef": "FAFFEC48"
+    }
+  ]
+}
